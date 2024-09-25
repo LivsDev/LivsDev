@@ -55,7 +55,6 @@ através do programa Floripa Mais Tec
 - LinkedIn: [Lívia S. Carvalho](https://www.linkedin.com/in/livia-s-carvalho/)
 - E-mail: livia@sonhodigital.com.br
 
- ![Snake animation](https://github.com/LivsDev/LivsDev/blob/output/github-contribution-grid-snake.svg)
-
-🎨 **Criado com amor 💛 por** LivsDev
+ 
+ **Criado com amor 💛 por** LivsDev
 
