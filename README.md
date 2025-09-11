@@ -3,8 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/LivsDev?style=social)](https://github.com/LivsDev) 
 [![Linkedin Badge](https://img.shields.io/badge/-Conectar%20no%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/livia-s-carvalho/)](https://www.linkedin.com/in/livia-s-carvalho/)
 
-📚 Sou estudante de Desenvolvimento de Sistemas pelo Senai
-através do programa Floripa Mais Tec
+📚 Dev FullStack
 
 👨‍💻 Sou apaixonada por:
 - Comunicação Visual, Tecnologia e Inovação
